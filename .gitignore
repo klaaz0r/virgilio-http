@@ -3,7 +3,7 @@ docs
 documentation
 coverage
 example-tests
-
+package-lock.json
 #node.js
 pids
 logs
